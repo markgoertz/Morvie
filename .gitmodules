@@ -1,15 +1,15 @@
-[submodule "Movies-Service"]
-	path = Movies-Service
-	url = https://github.com/Morvie/MovieMicroservice.git
-[submodule "Forums-Service"]
-	path = Forums-Service
-	url = https://github.com/Morvie/Forums.API.git
-[submodule "FeedMessages-Service"]
-	path = Threads-Service
-	url = https://github.com/Morvie/FeedMessages.git
-[submodule "Gateway"]
-	path = Gateway
-	url = https://github.com/Morvie/OcelotGateway.git
 [submodule "Documentation"]
-	path = Documentations
+	path = Documentation
 	url = https://github.com/Morvie/Documentation.git
+[submodule "MovieMicroservice"]
+	path = MovieMicroservice
+	url = https://github.com/Morvie/MovieMicroservice.git
+[submodule "Forums.API"]
+	path = Forums.API
+	url = https://github.com/Morvie/Forums.API.git
+[submodule "FeedMessages"]
+	path = FeedMessages
+	url = https://github.com/Morvie/FeedMessages.git
+[submodule "OcelotGateway"]
+	path = OcelotGateway
+	url = https://github.com/Morvie/OcelotGateway.git
