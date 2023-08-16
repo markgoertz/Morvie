@@ -13,3 +13,6 @@
 [submodule "OcelotGateway"]
 	path = OcelotGateway
 	url = https://github.com/Morvie/OcelotGateway.git
+[submodule "Morvie-Frontend"]
+	path = Morvie-Frontend
+	url = https://github.com/markgoertz/Morvie-Frontend
